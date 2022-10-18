@@ -1,0 +1,17 @@
+C:\Users\r.minadeo\Desktop\formation c#\animalApp\animalApp\bin\Debug\net6.0\animalApp.exe
+C:\Users\r.minadeo\Desktop\formation c#\animalApp\animalApp\bin\Debug\net6.0\animalApp.deps.json
+C:\Users\r.minadeo\Desktop\formation c#\animalApp\animalApp\bin\Debug\net6.0\animalApp.runtimeconfig.json
+C:\Users\r.minadeo\Desktop\formation c#\animalApp\animalApp\bin\Debug\net6.0\animalApp.dll
+C:\Users\r.minadeo\Desktop\formation c#\animalApp\animalApp\bin\Debug\net6.0\animalApp.pdb
+C:\Users\r.minadeo\Desktop\formation c#\animalApp\animalApp\obj\Debug\net6.0\animalApp.csproj.AssemblyReference.cache
+C:\Users\r.minadeo\Desktop\formation c#\animalApp\animalApp\obj\Debug\net6.0\animalApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\r.minadeo\Desktop\formation c#\animalApp\animalApp\obj\Debug\net6.0\animalApp.AssemblyInfoInputs.cache
+C:\Users\r.minadeo\Desktop\formation c#\animalApp\animalApp\obj\Debug\net6.0\animalApp.AssemblyInfo.cs
+C:\Users\r.minadeo\Desktop\formation c#\animalApp\animalApp\obj\Debug\net6.0\animalApp.csproj.CoreCompileInputs.cache
+C:\Users\r.minadeo\Desktop\formation c#\animalApp\animalApp\obj\Debug\net6.0\animalApp.dll
+C:\Users\r.minadeo\Desktop\formation c#\animalApp\animalApp\obj\Debug\net6.0\refint\animalApp.dll
+C:\Users\r.minadeo\Desktop\formation c#\animalApp\animalApp\obj\Debug\net6.0\animalApp.pdb
+C:\Users\r.minadeo\Desktop\formation c#\animalApp\animalApp\obj\Debug\net6.0\animalApp.genruntimeconfig.cache
+C:\Users\r.minadeo\Desktop\formation c#\animalApp\animalApp\obj\Debug\net6.0\ref\animalApp.dll
+C:\Users\r.minadeo\Desktop\formation c#\animalApp\animalApp\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\r.minadeo\Desktop\formation c#\animalApp\animalApp\obj\Debug\net6.0\animalApp.csproj.CopyComplete
