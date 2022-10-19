@@ -1,0 +1,11 @@
+-Créer un jeu qui se base sur deux fichiers contenant chacun un json avec der armes a feu et blanche.
+-Recuperer ces armes pour en faire deux listes distinctes.
+-Demander a l'utilisateur combien de soldats constituent chaque coté de l'armée.
+-Pour chaque soldat choisir une arme dans une des deux listes aleatoirement.
+-Créer une fonction combat qui determine quel soldat  gagne chaque round
+- créer la fonction tirer et couper  qui determineront le score de dégat de chaque arme 
+	tirer : ((puissance * Calibre)/capaciteMagasin) - poids
+	si Calibre Nucleaire alors le premier qui a une bombe nucléaire fait gagner son camp
+	couper : ((puissance * poids)/ longueur) * Matiere
+Si les fichiers (avec le json n'existent pas) 
+alors on peuple ces fichiers grace a un builder qui contient nos armes
